@@ -1,0 +1,2 @@
+Criando o repositório no github;
+Fazendo a sincronização dos git com o github;
