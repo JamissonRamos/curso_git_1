@@ -1,2 +1,5 @@
 Criando o repositório no github;
 Fazendo a sincronização dos git com o github;
+Utilizando o git status;
+Arquivos não enviados Untracked files;
+Arquivos modificados Changes not staged for commit;
